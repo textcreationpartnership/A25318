@@ -1,0 +1,247 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Account of the last hours of Dr. Peter du Moulin, minister of Gods word, and professor of divinity at Sedan who dyed in the said town, March 10, 1658, stylo novo / translated into English out of the French copy printed at Sedan.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1658</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 30 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25318</idno>
+            <idno type="STC">Wing A304</idno>
+            <idno type="STC">ESTC R1231</idno>
+            <idno type="EEBO-CITATION">12953683</idno>
+            <idno type="OCLC">ocm 12953683</idno>
+            <idno type="VID">96017</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25318)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 96017)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2:53)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Account of the last hours of Dr. Peter du Moulin, minister of Gods word, and professor of divinity at Sedan who dyed in the said town, March 10, 1658, stylo novo / translated into English out of the French copy printed at Sedan.</title>
+               </titleStmt>
+               <extent>[3], 28 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by A.L. ... for Rich. Davis,</publisher>
+                  <pubPlace>Oxford :</pubPlace>
+                  <date>1658.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Originally published in French as: Récit des dernières heures de Monsieur du Moulin. Cf. Madan 2381.</note>
+                  <note>Reproduction of original in Yale University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Du Moulin, Pierre, 1568-1658.</term>
+               <term>Clergy --  France --  Sedan --  Biography.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:96017:1"/>
+            <pb facs="tcp:96017:1" rendition="simple:additions"/>
+            <p>An ACCOUNT <hi>OF The laſt hours</hi> Of D<hi rend="sup">r.</hi> 
+               <hi>PETER du MO<g ref="char:V">Ʋ</g>LIN,</hi> Miniſter of Gods Word, and Pro<g ref="char:EOLhyphen"/>feſſor of Divinity at SEDAN.</p>
+            <p>
+               <hi>Who dyed in the ſaid Town March</hi> 10. 1658. <hi>Stylo novo.</hi>
+            </p>
+            <p>Tranſlated into Engliſh <hi>Out of the French Copy printed at</hi> Sedan.</p>
+            <q>
+               <bibl>
+                  <hi>Numb. 23.10.</hi>
+               </bibl> Let me dye the death of the righteous, and let my laſt end be like his.</q>
+            <p>
+               <hi>OXFORD,</hi> Printed, by <hi>A. L.</hi> Printer to the Uni<g ref="char:EOLhyphen"/>verſity, for <hi>Rich. Davis,</hi> 1658.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:96017:2"/>
+            <pb facs="tcp:96017:2"/>
+            <head>An account Of the laſt houres of D<hi rend="sup">R.</hi> 
+               <hi>PETER du MOVLIN Miniſter of Gods word, and Profeſſor of Divinity at</hi> SEDAN.</head>
+            <p>
+               <seg rend="decorInit">S</seg>INCE his great hurt by a fall from his horſe about three yeares and a halfe before his death he enjoy<g ref="char:EOLhyphen"/>ed no health. Yet did he not give over the exerciſe of his charges either in the Church or in the Schooles, and very ſeldome miſt preaching once a weeke, and reading two Divinity Lectures. All his life time he was much given to devotion, but in that laſt ſickly time he was ſo extraordinarily taken up with holy private exerciſes that he did almoſt nothing elſe but pray and meditate. He kept to the laſt houre that neatneſs of language wherein he
+<pb n="2" facs="tcp:96017:3"/>was ſo eminent, and the readineſſe of his memory which afforded him mat<g ref="char:EOLhyphen"/>ter of ſolid diſcourſes upon any ſubject offered to him in queſtions,</p>
+            <p>Vpon Tueſday <hi>Febr.</hi> 26. he awaked in the morning ſo weake and oppreſt in his breaſt, that he thought himſelfe not able to preach that day, yet taking heart, he was led and helpt up to the Church. Being got into the pulpit with much difficulty, he fainted, and ſome wine being brought to him, he would not taſte it, chuſing rather to expect Gods help, then to doe any thing which might ſeeme to border upon indecency. And he was not diſappointed of his hope, for after he had read his text, which was <hi>Pſ.</hi> 16.9. <hi>My fleſh ſhall reſt in hope,</hi> he ſpake with more vigour then he had done of a long time before, and applied the doctrine to himſelfe giving an account of his faith and hope to his hearers, taking his leave of them in a manner, and preaching his owne fune<g ref="char:EOLhyphen"/>rall Sermon, as if he had a prophetical
+<pb n="3" facs="tcp:96017:3"/>knowledge that he ſpake the laſt time to his people in the Church.</p>
+            <p>Vpon Thurſday the laſt day of <hi>Febr.</hi> he found his oppreſſion ſo much in<g ref="char:EOLhyphen"/>creaſed in the morning that there was no ſmall feare of a ſuddaine death. Be<g ref="char:EOLhyphen"/>ing then viſited by his colleagues who prayed by him, he deſired them to remember him that day (which was a Sermon day) in the prayers of the Church. After the Sermon a great company flock'd to him to bid him farewell, and to receive his bleſſing. He look'd upon them all, and ſpake to them with much facility &amp; preſence of mind. To ſuch as he knew to be of an exem<g ref="char:EOLhyphen"/>plary life he gave praiſes and incourage<g ref="char:EOLhyphen"/>ments to vertue and piety. Thoſe in whoſe life he knew there was matter of blame he would not in down-right termes rebuke before that great compa<g ref="char:EOLhyphen"/>ny, but going about in a diſcreete way he would (adreſſing his ſpeech to them) commend thoſe vertues that were op<g ref="char:EOLhyphen"/>poſite to their vices, and would ſay to them that were ſomewhat given to
+<pb n="4" facs="tcp:96017:4"/>tricks, that <hi>of all crafts, the maſter-craft was to be an honeſt man.</hi>
+            </p>
+            <p>Seeing a blind woman in the compa<g ref="char:EOLhyphen"/>ny he told her. <hi>You want the eyes of the body, but you have the eye of faith, pene<g ref="char:EOLhyphen"/>trating as farre as heaven. You ſee not the light of the Sunne, but God will let you ſee the brightneſs of his face.</hi>
+            </p>
+            <p>Then turning his eyes upon a Gentle<g ref="char:EOLhyphen"/>man who was a Roman Catholique, he ſaid, <hi>This is a worthy Gentleman,</hi> and ſpeaking to him, he ſaid, <hi>Sir, I ſuffer great paines, but God will have mercy upon me; I have many wayes offended him: Yet my conſcience beares me witneſs that I never preach'd or writ any thing but what I be<g ref="char:EOLhyphen"/>leeved to be conſonant unto the word of God.</hi>
+            </p>
+            <p>Next, he applyed himſelfe to his col<g ref="char:EOLhyphen"/>leagues, and ſaid, <hi>Fare you well, my Ma<g ref="char:EOLhyphen"/>ſters, I have that ſatisfaction in my mind, that I leave this Church in the hands of perſons whom God hath endowed with great gifts, and above all, with an exemplary piety. I make no doubt but that you will carefully looke to the conduct of the flock
+<pb n="5" facs="tcp:96017:4"/>committed unto you.</hi> One of them hav<g ref="char:EOLhyphen"/>ing anſwered, The Lord grant, Sir, that we may imitate you, for you are that good ſervant who not only have not bu<g ref="char:EOLhyphen"/>ried your Talent, but have very much improved it. You have done good ſer<g ref="char:EOLhyphen"/>vice in your time, and your labours will live, and doe good when you are gone: He replied, <hi>Ah Sir, you know not how much you grieve me by ſpeaking ſo: for I have not done all the good that I ſhould have done, &amp; that little benefit which the Church hath reaped by my labour is not from me, but from the grace of God in me, as it is uſuall with him to doe a good effect by a weake inſtrument, I am conſcious to my ſelfe that I have neglected my duty in many things, and that I have offended my God; but I have loved his holy truth, and I hope in his mercy; He is my Fa<g ref="char:EOLhyphen"/>ther and my God, and Ieſus Chriſt is my Saviour; Whoſoever beleeveth on him ſhall not periſh but have everlaſting life.</hi>
+            </p>
+            <p>His friends told him that he did him<g ref="char:EOLhyphen"/>ſelf harme by ſpeaking ſo much. <hi>It is true</hi> (ſaid he) <hi>but I will dye glorifying God.</hi>
+            </p>
+            <pb n="6" facs="tcp:96017:5"/>
+            <p>The four or five firſt dayes of his ſick<g ref="char:EOLhyphen"/>neſs he ſpent in expreſſions of deepe hu<g ref="char:EOLhyphen"/>miliation. His prayers were vehement, fervent, and full of penitent ſorrow. He acknowledged himſelfe the greateſt of ſinners, and the moſt unworthy of the graces which he had received of God. He abhorred his owne ungratefullneſs, aggravating his faultes, and deſpiſing all that others commended in him. <hi>Lord</hi> (ſaid he) <hi>I have done nothing but deſer<g ref="char:EOLhyphen"/>veth puniſhment. Thou haſt heaped bleſ<g ref="char:EOLhyphen"/>ſings upon me, thou haſt honored me with a holy calling, but I have not laboured ac<g ref="char:EOLhyphen"/>cording to the great worth of it; I have mingled mine owne glory with thine,</hi> I <hi>have often neglected thy ſervice to ſeek my particular intereſt; O how much ſelf love, how many perverſe affections have oppoſed the Kingdome of thy Son within me! How many times have I grieved thy good Spirit by a thouſand idle thoughts and carnall affections! But though it had been but juſtice in thee to have cruſht me in thy wrath, yet thou haſt alwayes ſhewed thy ſelf a mercifull and gracious Father un<g ref="char:EOLhyphen"/>to
+<pb n="7" facs="tcp:96017:5"/>me. In very faithfulneſſe thou haſt af<g ref="char:EOLhyphen"/>flicted me. Indeed thou haſt ſometimes beaten me with thy moſt terrible rods, thou haſt hid thy face from me for a mo<g ref="char:EOLhyphen"/>ment, but thou haſt remembred me in thy great compaſſions.</hi>
+            </p>
+            <p>His devout expreſſions ſuffered but little intermiſſion, &amp; his holy medita<g ref="char:EOLhyphen"/>tions none at all. For if ſometimes he was kept ſilent by a drowzy fit one might ſee by the lifting up of his eyes &amp; hands that his heart was with God. And every time that he reſumed his diſ<g ref="char:EOLhyphen"/>courſe, it was evident that his ſpeech was but the attendence of a longer me<g ref="char:EOLhyphen"/>ditation.</p>
+            <p>As when he began thus, <hi>Lord thou wilt do it, thou art faithfull in thy pro<g ref="char:EOLhyphen"/>miſes, I am thy creature, Thou haſt led me, and taught me from my youth, O forſake me not in this laſt period of my life: Have mercy upon me, my God, my Father, have mercy upon me, O Lord hear, O Lord for<g ref="char:EOLhyphen"/>give, O Lord hearken and do, deferre not, for thine own ſake, O my God; even for thy Sons ſake, who hath loved me and hath given himſelf for me.</hi>
+            </p>
+            <pb n="8" facs="tcp:96017:6"/>
+            <p>That meditation of Gods mercy he did much ſtretch himſelf upon, ſaying. <hi>The mercy of God is infinite as himſelf no ſin ſo great but may be remitted. How great was Aarons ſin that made the golden calf? How grievous that of David in the buſineſſe of <g ref="char:V">Ʋ</g>riah?</hi> And that <hi>of Salomon (whom God had ſo highly honoured) whoſe heart was ſeduced by the love of ſtrange women to the abominable worſhip of falſe Gods; And yet God ſaid of him, that if he brake Gods ſtatutes and kept not his commande<g ref="char:EOLhyphen"/>ments, he would viſit his trangreſſion with the rod, and his iniquity with ſtripes, but nevertheleſſe he would not utterly take his loving kindneſſe from him.</hi> Then ma<g ref="char:EOLhyphen"/>king application to himſelf he cryed out, <hi>Thou wilt pardon me, even me alſo, O my God; Thou wilt deliver me from every evill worke, and ſave me into thy heavenly Kingdome. Let me dye the death of the righteous. Let me ſee thy face in righteouſneſs. Let me taſte thoſe goods of which thou haſt given me many foretaſts.— O how happy a thing it is to live in Gods fear, and to dye in his peace!</hi>
+            </p>
+            <pb n="9" facs="tcp:96017:6"/>
+            <p>His ſickneſſe being violent and his paines ſharp, one of the Miniſters ſeeing how he ſuffered, bad him to be of good cheere, becauſe the time of his deliver<g ref="char:EOLhyphen"/>ance drew nigh: <hi>How welcome you are to me</hi> (ſaid the holy patient) <hi>with that good news! Wellcome kind Death. O how happy ſhall I be to ſee my God, to whom my heart hath been of a long time aſpiring! He will be mercifull to me. Pray to him that he per<g ref="char:EOLhyphen"/>fect his worke in me.</hi> The<g ref="char:cmbAbbrStroke">̄</g> feeling his pulſe. <hi>It is intermittent</hi> (ſaid he) <hi>and to another it would preſage a ſudden death, but my ſoul cleaves ſo fast to this wretched body, that it ſhall have much adoe to come out of it.</hi>
+            </p>
+            <p>Sometimes the violence of his pains extorted ſome complaints from him. <hi>O Lord,</hi> (ſaid he) <hi>lay not too heavy a hand upon thy poor ſervant. Thou haſt ſuffi<g ref="char:EOLhyphen"/>ciently afflicted me to make me ſenſible of my ſin.</hi> Then correcting himſelf he added. <hi>Nay, Lord, I am far from mur<g ref="char:EOLhyphen"/>muring againſt thee; I have kept my ſelf from that in my long trials. Why? I have deſerved infinitely more then I ſuffer. Bruiſe this duſt and aſhes, my body; and
+<pb n="10" facs="tcp:96017:7"/>ſave my precious ſoule. As miſerable as I am, I would not exchange my condition with that of a King, while I hope in the grace of my God.</hi>
+            </p>
+            <p>He would be entertained with good diſcourſes, and delighted much that his friends ſhould helpe him with thoſe texts of Scripture which were the fit<g ref="char:EOLhyphen"/>teſt to ſtrengthen his faith and raiſe his hope: And when they began a text he would end it, and added ſomething to it, or did illuſtrate it with ſome inter<g ref="char:EOLhyphen"/>pretation. As when one told him the words of Jacob, I have wayted for thy ſalvation, O God; he ſaid; <hi>Many of our Doctours by that ſalvation underſtand the temporall deliverances which God did pro<g ref="char:EOLhyphen"/>miſe his people: but I will apply it to my ſelf in the ſame ſenſe as you take it.</hi> When the words of the hymne of Zacharias were uſed to him of <hi>the tender mercy of our Lord whereby the day ſpring from on high hath viſited us.</hi> He added pre<g ref="char:EOLhyphen"/>ſently. <hi>Yea it is that Sun of righteouſ<g ref="char:EOLhyphen"/>neſſe with healing in his wings.</hi> Like<g ref="char:EOLhyphen"/>wiſe when he heard that text of <hi>P.</hi> 130.
+<pb n="11" facs="tcp:96017:7"/>I wayt for the Lord, my ſoul does wayt, and in his word do I hope, he ſaid; <hi>that word is the promiſe of the Goſpel that whoſoever, believeth in Jeſus Chriſt hath everlaſting life, That is the word which my ſoul doth wayt for.</hi>
+            </p>
+            <p>He had very often the <hi>Pſ.</hi> 51. in his mouth, and inſiſted eſpecially upon this verſe, <hi>The ſacrifices of God are a broken Spirit, a broken and a contrite heart, O God, thou wilt not deſpiſe;</hi> and then he would ſay, <hi>That ſacrifice, O my God, I of<g ref="char:EOLhyphen"/>fer unto thee; Thou knoweſt my heart, and how it is bruiſed and wounded with ſorrow that I have offended thee. Forgive me, my God, graciouſly forgive me all my ſins, deale with me as thou didſt with the poor Publicane, as with the humble Canaanitiſh Woman, as with the converted thief; O let me be this day with thee in Paradiſe, crucifie the old man within me, kill that man of ſin which is too quick and too ſtrong, and raiſe me unto new<g ref="char:EOLhyphen"/>neſſe of life, that I may behold thy face and be with my ſaviour Ieſus Chriſt.</hi>
+            </p>
+            <p>He had a particular love for the ho<g ref="char:EOLhyphen"/>ly
+<pb n="12" facs="tcp:96017:8"/>tongue; Seeing a Student that was learned in the ſame, he deſired him to read before him ſome Pſalmes in He<g ref="char:EOLhyphen"/>brew: Then he began to reckon how many names were given to God in the Old Teſtament, making learned conſi<g ref="char:EOLhyphen"/>derations upon each. Thus paſſing from one good diſcourſe to another, he gave occaſion to the Student to aſke him whether he thought that Hebrew was the Language uſed in the Kindome of Heaven: <hi>That is not revealed</hi> (ſaid the Doctor) <hi>neither do I think that the Lan<g ref="char:EOLhyphen"/>guage of Heaven is known here in Earth; but I think that wee ſhall learn it in a moment when God ſhall be all in all, and that is that tongue of Angels which St. Paul mentions. This is as other things which God hath prepared for thoſe that love him, things which eye hath not ſeen, nor ear heard, and which are not come into a mans heart.</hi>
+            </p>
+            <p>The next Lords day morning being viſited by the Miniſter that was to preach in the morning, he deſired him that for his ſake the Congregation
+<pb n="13" facs="tcp:96017:8"/>ſhould ſing the one and fiftieth Pſalme, which he would often repeat with a profound humiliation; He had alſo the hundredth and thirtieth in his mouth very often, and the two and thir<g ref="char:EOLhyphen"/>tieth.</p>
+            <p>Once having ſaid the firſt and ſecond Verſes of that Pſalme: <hi>Bleſſed is he whoſe trangreſſion is forgiven, whoſe ſin is covered. Bleſſed is the man unto whom the Lord imputeth not iniquity and in whoſe Spirit there is no guile,</hi> he added, <q>Thou knoweſt Lord that in ſincerity and without guile I humble my ſelf before thy face: I am a miſerable ſin<g ref="char:EOLhyphen"/>ner and durſt not lift up mine eyes to<g ref="char:EOLhyphen"/>wards thee, did I not truſt both in thy commandement and promiſe. Such as labour under the ſenſe of their miſe<g ref="char:EOLhyphen"/>ries are thoſe whom thou calleſt, ſay<g ref="char:EOLhyphen"/>ing, Come unto me all yee that labour and are heavy laden, and I will eaſe you. O then let me come unto thee. Draw me Lord that I may run after thee: I am tyred, I am weary to be ab<g ref="char:EOLhyphen"/>ſent from my God. My ſoul thirſteth
+<pb n="14" facs="tcp:96017:9"/>for God, for the living God, when ſhall I come and appear before God. Alas! I am unworthy of it, for I am conceived in ſin; My whole life hath been a continued tranſgreſſion: yet farre be it from me to doubt of his power and faithfulneſſe. Where ſin aboundeth his grace aboundeth much more. It is not for the righteous, but for repenting ſinners that he hath gi<g ref="char:EOLhyphen"/>ven his Son, that whoſoever belie<g ref="char:EOLhyphen"/>veth on him ſhould not periſh but have life everlaſting. Lord I believe, help thou my unbelief: Increaſe and ſtrengthen my fuith: It is now weak and ſmall, but it is true and un<g ref="char:EOLhyphen"/>fained, and ſtayeth upon Jeſus Chriſt onely: There is no ſalvation in any other: he is the way, the truth, and the life; None can come to the Fa<g ref="char:EOLhyphen"/>ther but by him. Away with all other interceſſions; Away with all merits of works, all our righteouſneſſes are but pollutions. Ah my God! I have no righteouſneſs but thine, for I am con<g ref="char:EOLhyphen"/>ceived in ſin. I never did any work ſo
+<pb n="15" facs="tcp:96017:9"/>good but it needs pardon. Mercy, Lord, Mercy. Pardon me my ſins, Par<g ref="char:EOLhyphen"/>don me my righteouſneſſes. Waſh me throughly from mine iniquity &amp; cleanſe me from my ſin. Purge me with Hyſſope, but let it be dipt in the blood of the Lamb without blemiſh and without ſpot, which taketh away the ſins of the world. Thou knoweſt, Lord, that I have loved thy holy truth, and that I have believed thy promiſes. They are the joy of my heart. They are the comforts which have kept up my ſoul from being caſt down with ſorrow; O God, perfect thy work within me. Create in me a clean heart, O God, and renew a right Spi<g ref="char:EOLhyphen"/>rit within me. Reſtore unto me the joy of thy ſalvation, and uphold me with thy free Spirit.</q>
+            </p>
+            <p>When by too long a bending of his Spirit and voice he found himſelf, ſpent and conſtrained to intermit theſe eleva<g ref="char:EOLhyphen"/>tions, he would ſay or cauſe to be read before him ſome Pſalmes and choſe them himſelf, leaving out thoſe verſes
+<pb n="16" facs="tcp:96017:10"/>which were not for his preſent uſe. As when he ſaid the 6. Pſalme, he would goe no further then the 4. verſe, <hi>Return O Lord, deliver my ſoul, O ſave me for thy mercies ſake,</hi> then came to the 9. verſe: <hi>The Lord hath heard my ſupplication, the Lord will receive my prayer,</hi> &amp; then ſaid, <hi>All the reſt of the Pſalme is not for me; For death is not my fear, but my joy and deliverance from a languiſhing life; and I have no enemies.</hi>
+            </p>
+            <p>He that read Pſalmes to him would al<g ref="char:EOLhyphen"/>ſo ſkip over that which was not for the Doctor's uſe. And if ſometimes he did forget ſome text fit for his turne, he would preſently take notice of it. As when the 31. Pſalme was read to him, He ſaid to the Reader, <hi>you have omit<g ref="char:EOLhyphen"/>ted the fat<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſt and moſt convenient text for me; into thine hand I commit my Spirit; Thou haſt redeemed me O Lord God of truth: and you have omitted ſome<g ref="char:EOLhyphen"/>thing about the</hi> 11. <hi>Verſe:</hi> I left it out purpoſely (ſaid the Reader) becauſe you are not a reproach among your neighbours, nor a fear to your acquain<g ref="char:EOLhyphen"/>tance,
+<pb n="17" facs="tcp:96017:10"/>neither do they that ſee you, flee from you. You ſee that all your Sheep are flocking about you, They bleſſe you and they crave your bleſſing. <q>
+                  <hi>I am not ſorry</hi> (ſaid the Doctor) That my Miniſtery leaves a good ſavour after me. I beſeech God with all my heart that he ſend faithfull labourers into his harveſt, which may do that holy work better then I: O Lord I have not been diligent as I ſhould have been, but I have obtained grace to be faith<g ref="char:EOLhyphen"/>full. For with all the affection of my heart I have ſtudied to ſpeak and to defend the truth, and I have been grieved with the affliction of the Church. O Lord purifie her from all ſcandall: Let her be bleſſed and let not the adverſaries of thy truth triumph over her for ever.</q>
+            </p>
+            <p>So humble he was, and ſuch a con<g ref="char:EOLhyphen"/>temner of himſelf, that he could not a<g ref="char:EOLhyphen"/>bide thoſe that expreſt before his face the great value which they ſet upon him, or ſaid any thing to his commen<g ref="char:EOLhyphen"/>dation: And when they came out with
+<pb n="18" facs="tcp:96017:11"/>ſome praiſes, he rejected them with a kind of indignation. <hi>Away</hi> (ſaid he) <hi>with that flattery, pray to God that he have mercy upon me.</hi>
+            </p>
+            <p>His ſickeneſſe was an inflammation of Lungs, with a burning Feaver, which redoubled every day at the ſame hour. Once comming out of a ſtrong fit, which had handled him very ſore, he ſaid: <hi>My God how weary, how tired I am! When ſhall I reſt in thy boſome? When ſhall I be filled with the true goods? When ſhall I drink in the River of thy pleaſures? I am unworthy of it, O my God! but thou art glorified by doing good to the unworthy. It is not for them that are whole, but for them that are ſick that thy Son the great Phyſi<g ref="char:EOLhyphen"/>tian was ſent. Who ſo believeth on him is paſt from death to life.</hi>
+            </p>
+            <p>He was compaſſed about with his fa<g ref="char:EOLhyphen"/>mily and his chief friends. Every one comforted him according to his Talent. Being asked by one of them whether he did not perfectly hope in the grace of God which was preſented to him. I <hi>hope</hi> (ſaid he) <hi>but not perfectly, yet as
+<pb n="19" facs="tcp:96017:11"/>much as I am able. I ſuffer now the pains of death: But God will redeem my ſoul from the power of the grave for he ſhall receive me.</hi>
+            </p>
+            <p>When ſome comfortable place of Scripture was brought to him, where<g ref="char:EOLhyphen"/>by he found himſelf ſtrengthened, He would riſe to embrace him that ſpake it, and being too weak to doe it, he would take his hand and kiſſe it, giving him ſome bleſſing, and ſaying, <hi>It was the Spirit of God that ſpake by your mouth. The Lord bleſſe you and increaſe his graces in you.</hi>
+            </p>
+            <p>Another time after an exhortation which had affected him very much, he ſaid, <hi>Theſe are excellent words. The Lord by his grace deeply print them in my heart.</hi>
+            </p>
+            <p>This text of <hi>Eph.</hi> 1. was alleadged to him. Bleſſed be God and Father of our Lord Jeſus Chriſt, who hath bleſſed us in all ſpirituall bleſſings in heavenly places in Chriſt. He added the follo<g ref="char:EOLhyphen"/>wing verſe, <hi>According as he hath cho<g ref="char:EOLhyphen"/>ſen us in him, before the foundation of the World.</hi>
+            </p>
+            <pb n="20" facs="tcp:96017:12"/>
+            <p>Sometimes he was in ſuch a rapture, hearing them that ſpake to him of the excellency of that glory which he was going to poſſeſſe that he opened his mouth and his eyes in an exſtaticall countenance pronouncing but few words with great intervalls between, as, <hi>O what is it to ſee Gods face in righteouſ<g ref="char:EOLhyphen"/>neſſe! O when ſhall I be ſatisfied with his likeneſſe!</hi>
+            </p>
+            <p>Many times he would ſay theſe words of <hi>Pſal.</hi> 36. <hi>How excellent is thy loving kindneſſe O God! Therefore the Children of men put their truſt under the ſhadow of thy wings. They ſhall be abundantly ſatis<g ref="char:EOLhyphen"/>fied with the fatneſſe of thy houſe, and thou ſhalt make them drink of the river of thy pleaſures.</hi> And theſe again, <hi>For with thee is the fountain of life, and in thy light ſhall wee ſee light.</hi> And out of the <hi>Pſal.</hi> 67. <hi>Bleſſed is the man whom thou chooſeſt and cauſeſt to approach unto thee, that he may dwell in thy Courts. Wee ſhall be ſatisfied with the goodneſſe of thy houſe, even of thy holy Temple.</hi>
+            </p>
+            <p>Very often he would repeat the 27.
+<pb n="21" facs="tcp:96017:12"/>the 63. and the 71. <hi>Pſalme.</hi> In the laſt ſtaying eſpecially upon theſe words: <hi>O God thou haſt taught me from my youth, and hither to have I declared thy wandrous works; Now alſo when I am old and gray-headed, O God forſake me not.</hi>
+            </p>
+            <p>No day paſt but he prayed for his Children both preſent and abſent, ſay<g ref="char:EOLhyphen"/>ing. <hi>The Lord bleſſe them, and give them his peace, his love, and his fear.</hi>
+            </p>
+            <p>Every hour his family did look that he ſhould expire, but he examining his pulſe would ſay, <hi>You ſhall ſee me very ſick, but I ſhall not ſo ſoon dye.</hi>
+            </p>
+            <p>The four firſt dayes of his ſickneſſe he ſpake both day and night with little intermiſſion; So that it is impoſſible exactly to follow the ſluency of his diſ<g ref="char:EOLhyphen"/>courſe and the fervency of his expreſ<g ref="char:EOLhyphen"/>ſions, eſpecially in his prayers. So much wee relate here as wee his dili<g ref="char:EOLhyphen"/>gent hearers can remember, for all this was ſpoken before many and worthy witneſſes that reſorted to him to hear him, and to learn to dye. But the ſix laſt dayes of his ſickneſſe he was for the
+<pb n="22" facs="tcp:96017:13"/>moſt part of the time in a deep ſlum<g ref="char:EOLhyphen"/>ber, againſt which he did earneſtly ſtrive. <hi>Prick me,</hi> ſaid he. <hi>Now I ſhould watch. It is not time now to ſleep but to dye. Watch and pray (ſaid my ſa<g ref="char:EOLhyphen"/>viour) that you enter not into tempta<g ref="char:EOLhyphen"/>tion. O great God, abandon me not to mine infirmities, but ſo preſerve and keep up my Spirit that I may glorifie thee even when I am a dying.</hi>
+            </p>
+            <p>And though after ſuch expreſſions he fell preſently into his ſlumber, one might ſee by his geſtures, and by the words which he ſpake now and then, that one might ſay of him as the ſpouſe ſaid of her ſelf, He was aſleep, but his heart waked. He open'd his eyes, He lift up his hands, He ſaid often <hi>Lord be mercifull to me, Be gracious to me.</hi> Even when he ſeemed to be deep a<g ref="char:EOLhyphen"/>ſleep he would come out with five or ſix words, which ſhewed what his mind was ſet upon. <hi>Death</hi> (ſaid he) <hi>is ſwal<g ref="char:EOLhyphen"/>lowed up in victory.</hi> And a good ſpace after: <hi>It is the gift of God — It is my hope — It is my comfort.</hi>
+               <pb n="11" facs="tcp:96017:13"/>Sometimes the ſame thing came often to his mind and mouth. For a whole day he would ſay every time that he awaked: <hi>The Word was made fleſh.</hi>
+            </p>
+            <p>When he was too long without ſpeaking his friends were carefull to a<g ref="char:EOLhyphen"/>wake him, to know whether he had ſenſe and knowledge ſtill. Being a<g ref="char:EOLhyphen"/>waked he was aſked whether he did lift up his ſoul unto God. He anſwered <hi>Yes, inceſſantly.</hi> He was asked again whether he would be glad to go to God: <hi>O</hi> (ſaid he) <hi>when ſhall I ſee him, that good God!</hi>
+            </p>
+            <p>He was not much troubled with his ſlumber in the morning from ſeven to nine, becauſe then his fever was leſſe, which uſed to redouble about nine. In that intervall he would ſpeak with fa<g ref="char:EOLhyphen"/>cility. That intervall was huſbanded to comfort him and to pray by him. He would then hearken to prayers with great attention and to all the good things that were ſaid to him: And it is obſervable that in this his ſickneſſe he was leſſe deaf then he had been ten years before.</p>
+            <pb n="24" facs="tcp:96017:14"/>
+            <p>Many times he would feel his pulſe, <q>and then ſaid: O what a grief is this? I cannot dye. Good God have mer<g ref="char:EOLhyphen"/>cy upon me; Set my ſoul free. I am weary of being abſent from my God. I deſire to depart and to be with Chriſt. O my God, come fetch me, ſhorten the dayes of my combat. Let me dye I beſeech thee. Into thy hands I commend my Spirit, for thou haſt redeemed me. O Lord God of truth.</q>
+            </p>
+            <p>His Chamber was full of people day and night. Once opening his eyes after a ſlumber he ſaid: <hi>Here is a great com<g ref="char:EOLhyphen"/>pany.</hi> One anſwered him. Sir they are your Sheep that deſire you to call for Gods bleſſing upon them.</p>
+            <p>
+               <hi>The Lord bleſſe them</hi> (ſaid he) <hi>and give them his fear and the promiſed ſal<g ref="char:EOLhyphen"/>vation.</hi>
+            </p>
+            <p>The two laſt dayes of his ſickneſſe ad<g ref="char:EOLhyphen"/>ded to his burning fever and deadly ſlumber contractions of ſinews, and convulſions. Every hour was thought to be his laſt. None look'd to hear him
+<pb n="25" facs="tcp:96017:14"/>ſpeak any more. All his friends thought that his deep ſleep would end in that of death. But about midnight he opened his eyes and ſaid to one of them that ſtood by: <hi>I ſhall ſoon be eaſed, I am go<g ref="char:EOLhyphen"/>ing to my Father and my God: He hath heard me indeed.</hi> And ſoon after: <hi>I go to him with confidence for he hath arrayed me with his robe.</hi> Then being raiſed in<g ref="char:EOLhyphen"/>to an unexpreſſible rapture he ſaid, <hi>I ſee him,</hi> and with an exclamation, <hi>O how beautifull he is.</hi> Being thus exalted in Spirit far above the world, although he was alwayes tenderly affected to<g ref="char:EOLhyphen"/>wards his family, he ſaid to them that were there preſent, putting them far with his hand. <hi>I renounce all earthly af<g ref="char:EOLhyphen"/>fections. I will no more love any thing in the World but thee, O God, who doſt alone poſſeſſe me.</hi> After theſe words he continued a good while in that ho<g ref="char:EOLhyphen"/>ly rapture cauſing more edification in all the ſtanders by which his counte<g ref="char:EOLhyphen"/>nance without words, then with all the words which he had ſpoken before. His eyes were clear and ſparkling, his mouth
+<pb n="26" facs="tcp:96017:15"/>open and panting after the living God. His armes ſtretcht up to heaven, and his body ſtriving wonderfully to riſe, as it were to meet and to embrace that <hi>beautifull</hi> object of his love. All that were preſent wiſht that God would re<g ref="char:EOLhyphen"/>ceive him in that happy inſtant. But his hour was not yet come.</p>
+            <p>All the next day, which was Satur<g ref="char:EOLhyphen"/>day the ninth of March, he ſtruggled with the agony of death, being tor<g ref="char:EOLhyphen"/>mented with frequent convulſions, and ſtill fighting the good fight by faith, hu<g ref="char:EOLhyphen"/>mility and patience. Towards the eve<g ref="char:EOLhyphen"/>ning the tokens of his approaching death made his aſſiſtants to double their endeavours to comfort him. He underſtood all that was ſaid to him, and ſhewed holy elevations in his prayer, he gave thanks to thoſe that prayed, ſay<g ref="char:EOLhyphen"/>ing, <hi>the Lord hear you, and the Lord bleſſe you.</hi>
+            </p>
+            <p>When he heard the glory at hand ex<g ref="char:EOLhyphen"/>tolled in ſome emphatical termes of Scripture, he returned into his former raptures. And once more he pronoun<g ref="char:EOLhyphen"/>ced
+<pb n="27" facs="tcp:96017:15"/>thoſe words of <hi>Pſal.</hi> 17. <hi>I ſhall be ſatisfied with thy likeneſs when I awake.</hi> And twice or thrice <hi>Come Lord Jeſu, come, come, Lord Jeſu, come.</hi> And for the laſt time that text which he loved ſo much, <hi>He that believeth in Ieſus Chriſt ſhall not periſh, but have everlaſting life.</hi> Then a little after: <hi>Lord Jeſu receive my Spirit.</hi> He that comforted him ſaid to him: Sir you ſhall ſee your Redeemer with your eyes. To which he anſwered with an effort, laying his hand over his heart, <hi>I believe it.</hi>
+            </p>
+            <p>That was the laſt intelligible word which he pronounced, though he made yet great efforts to make himſelf un<g ref="char:EOLhyphen"/>derſtood, and was a quarter of an hour ſpeaking with a fervent affection; But the fleames that filled his throat and pa<g ref="char:EOLhyphen"/>late ſuffered not the aſſiſtants to under<g ref="char:EOLhyphen"/>ſtant any of his words.</p>
+            <p>After this he was half an hour with<g ref="char:EOLhyphen"/>out ſpeaking, yet without looſing ſenſe and knowledge. His friends made the laſt prayer, during which he did per<g ref="char:EOLhyphen"/>petually lift up his eyes and hands to
+<pb n="28" facs="tcp:96017:16"/>heaven. And ſome moments after he quietly gave up the laſt breath, dying with peace and joy viſible on his face. It was half an hour after midnight, the tenth of March 1658. in the four<g ref="char:EOLhyphen"/>ſcore and tenth year of his age.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:96017:16"/>
+         </div>
+      </body>
+   </text>
+</TEI>
